@@ -16,7 +16,7 @@
 
 ### :rocket: About of me
 
-I like programming, I have been doing it since I was 16 years old. I know several programming languages, but lately I have been fond of the interface. In addition, I am fond of tourism, astronomy, photography and radio electronics. Every area of my passion always extends with programming. Check out my pet projects:
+I like programming, I have been doing it since I was 16 years old. I know several programming languages, but lately I have been fond of frontend. In addition, I am fond of tourism, astronomy, photography and radio electronics. Every area of my passion always extends with programming. Check out my pet projects:
 
 1. [DIY Astronomical Observatory Station](https://github.com/miksrv/observatory) - portal of a self-made automatic remote astronomical observatory.
 2. [DYI Arduino Weather Station](https://github.com/miksrv/arduino-weather-station) - project is a working model of an automated weather station.
