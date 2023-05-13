@@ -30,4 +30,4 @@ I like programming, I have been doing it since I was 16 years old. I know severa
 7. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - automated dust cover for astronomical telescope.
 8. [DIY Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - device for telescope thermalstabilization.
 9. [DIY Astronomical Observatory Station](https://github.com/miksrv/observatory) - (Deprecated) portal of a self-made automatic remote astronomical observatory.
-10. [ReactJS Personal VC](https://github.com/miksrv/react-personal-webpage) - my VC.
+10. [ReactJS Personal VC](https://github.com/miksrv/react-personal-webpage) - my old VC on the ReactJS.
