@@ -21,7 +21,20 @@ jobs:
           cache: 'npm'
           cache-dependency-path: yarn.lock
 
-      - name: Install dependencies
+      - name: Cache node modules
+        uses: actions/cache@v3
+        id: cache-npm
+        with:
+          path: |
+            node_modules
+            ~/.npm
+          key: ${{ runner.os }}-modules-${{ hashFiles('yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-modules-
+            ${{ runner.os }}-
+
+      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        name: Install dependencies
         run: yarn install
 
       - name: Build README
