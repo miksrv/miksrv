@@ -21,20 +21,7 @@ jobs:
           cache: 'npm'
           cache-dependency-path: yarn.lock
 
-      - name: Cache node modules
-        uses: actions/cache@v3
-        id: cache-npm-miksrv
-        with:
-          path: |
-            node_modules
-            ~/.npm
-          key: ${{ runner.os }}-miksrv-modules-${{ hashFiles('yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-miksrv-modules-
-            ${{ runner.os }}-
-
-      - if: ${{ steps.cache-npm-miksrv.outputs.cache-hit != 'true' }}
-        name: Install dependencies
+      - name: Install dependencies
         run: yarn install
 
       - name: Build README
