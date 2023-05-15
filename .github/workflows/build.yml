@@ -23,15 +23,17 @@ jobs:
 
       - name: Cache node modules
         uses: actions/cache@v3
-        id: cache-npm
+        id: cache-npm-miksrv
         with:
-          path: node_modules
-          key: ${{ runner.os }}-modules-${{ hashFiles('yarn.lock') }}
+          path: |
+            node_modules
+            ~/.npm
+          key: ${{ runner.os }}-miksrv-modules-${{ hashFiles('yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-modules-
+            ${{ runner.os }}-miksrv-modules-
             ${{ runner.os }}-
 
-      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+      - if: ${{ steps.cache-npm-miksrv.outputs.cache-hit != 'true' }}
         name: Install dependencies
         run: yarn install
 
