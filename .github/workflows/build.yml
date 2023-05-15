@@ -1,0 +1,50 @@
+name: Build README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm'
+          cache-dependency-path: yarn.lock
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        id: cache-npm
+        with:
+          path: |
+            node_modules
+            ~/.npm
+          key: ${{ runner.os }}-modules-${{ hashFiles('yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-modules-
+            ${{ runner.os }}-
+
+      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+        name: Install dependencies
+        run: yarn install
+
+      - name: Build README
+        run: node build.js
+
+      - name: Commit with diff
+        run: |-
+          git add .
+          git diff
+          git config --global user.email "readme@miksoft.pro"
+          git config --global user.name "Readme Action"
+          git commit -m "Updated README" || echo "No changes detected"
+          git push
