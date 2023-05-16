@@ -7,9 +7,9 @@ const result = axios.get('https://astro.miksoft.pro/api/photo?order=random&limit
     let photoContent = ''
 
     result.data.items.forEach((photo, index) => {
-        photoContent += (`<img src="${imageHost}${photo.image_name}_thumb.${photo.image_ext}" alt="" style="width: 24%; height: 150px; object-fit: cover;" />`)
+        photoContent += (`   <img src="${imageHost}${photo.image_name}_thumb.${photo.image_ext}" alt="" style="width: 24%; height: 150px; object-fit: cover;" />`)
 
-        if (result.data.items.length < (index + 1)) {
+        if ((index + 1) < result.data.items.length) {
             photoContent += "\n"
         }
     })
