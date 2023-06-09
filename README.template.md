@@ -16,13 +16,15 @@
 
 I like programming, I have been doing it since I was 16 years old. I know several programming languages, but lately I have been fond of frontend. In addition, I am fond of tourism, astronomy, photography and radio electronics. Every area of my passion always extends with programming. Check out my pet projects:
 
-1. [DIY Observatory Portal](https://github.com/miksrv/astronomy-portal) - portal of a self-made automatic remote astronomical observatory.
-2. [DIY Arduino Weather Station](https://github.com/miksrv/arduino-weather-station) - project is a working model of an automated weather station.
-3. [NextJS Personal VC](https://github.com/miksrv/nextjs-vcard-project) - my current VC on the NextJS.
-4. [Astronomical Image Analyzer](https://github.com/miksrv/fits-parser) - script is designed to analyze astronomical data files (FITS).
-5. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof) - observatory roof control firmware.
-6. [API Backedn Server](https://github.com/miksrv/api-backend) - (deprecated) - API server for weather station and observatory.
-7. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - automated dust cover for astronomical telescope.
-8. [DIY Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - device for telescope thermalstabilization.
-9. [DIY Astronomical Observatory Station](https://github.com/miksrv/observatory) - (Deprecated) portal of a self-made automatic remote astronomical observatory.
-10. [ReactJS Personal VC](https://github.com/miksrv/react-personal-webpage) - my old VC on the ReactJS.
+1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal)
+2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station)
+3. [Software Engineer VC](https://github.com/miksrv/nextjs-vcard-project)
+4. [Astronomical FITS Image Analyzer](https://github.com/miksrv/astronomy-fits-parser)
+5. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller)
+6. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap)
+7. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization)
+8. DEPRECATED: [Observatory Imagery Management](https://github.com/miksrv/observatory)
+9. DEPRECATED: [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
+10. DEPRECATED: [API Backend Server](https://github.com/miksrv/api-backend)
+11. DEPRECATED: [Personal VC React](https://github.com/miksrv/react-personal-webpage)
+12. DEPRECATED: [Personal VC PHP](https://github.com/miksrv/vcard)
