@@ -9,10 +9,10 @@
 ### 🚀 My some astro photos on Tuesday, October 10, 2023
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://astro.miksoft.pro/api/photos/IC_417-170m-2020.10.14_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/M51-255m-2021.01.26_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_5907-685m-2021.05.19_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/M5-60m-2021.08.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/NGC_7000-400m-2021.01.13_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/UGC_6930-40m-2021.03.16_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/IC_1396-2020.10.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/IC_5146-210m-2021.02.07_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
@@ -26,8 +26,8 @@ I like programming, I have been doing it since I was 16 years old. I know severa
 5. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller)
 6. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap)
 7. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization)
-8. DEPRECATED: [Observatory Imagery Management](https://github.com/miksrv/observatory)
-9. DEPRECATED: [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
-10. DEPRECATED: [API Backend Server](https://github.com/miksrv/api-backend)
-11. DEPRECATED: [Personal VC React](https://github.com/miksrv/react-personal-webpage)
-12. DEPRECATED: [Personal VC PHP](https://github.com/miksrv/vcard)
+8. 🚧 [Observatory Imagery Management](https://github.com/miksrv/observatory)
+9. 🚧 [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
+10. 🚧 [API Backend Server](https://github.com/miksrv/api-backend)
+11. 🚧 [Personal VC React](https://github.com/miksrv/react-personal-webpage)
+12. 🚧 [Personal VC PHP](https://github.com/miksrv/vcard)
