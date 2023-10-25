@@ -14,7 +14,11 @@
 
 ### 🔭 About of me
 
-I like programming, I have been doing it since I was 16 years old. I know several programming languages, but lately I have been fond of frontend. In addition, I am fond of tourism, astronomy, photography and radio electronics. Every area of my passion always extends with programming. Check out my pet projects:
+I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development.
+
+Beyond my programming journey, I have a diverse range of interests that beautifully complement my technical pursuits. I'm an avid enthusiast of tourism, astronomy, photography, and radio electronics. What's truly exciting is how each of these passions intertwines with the world of programming.
+
+Feel free to explore some of my pet projects to get a glimpse of what I've been working on:
 
 1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal)
 2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station)
