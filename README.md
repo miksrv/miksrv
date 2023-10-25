@@ -9,15 +9,19 @@
 ### 🚀 My some astro photos on Wednesday, October 25, 2023
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://astro.miksoft.pro/api/photos/NGC_6888-340-2021.01.04_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_4565-450m-2021.05.10_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/M51-625m-2022.05.15_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/UGC_6930-40m-2020.08.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/M5-60m-2021.08.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/M_81-2023.07.19_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/M_82-2023.07.20_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/NGC_6823-195m-2021.02.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
 
-I like programming, I have been doing it since I was 16 years old. I know several programming languages, but lately I have been fond of frontend. In addition, I am fond of tourism, astronomy, photography and radio electronics. Every area of my passion always extends with programming. Check out my pet projects:
+I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development.
+
+Beyond my programming journey, I have a diverse range of interests that beautifully complement my technical pursuits. I'm an avid enthusiast of tourism, astronomy, photography, and radio electronics. What's truly exciting is how each of these passions intertwines with the world of programming.
+
+Feel free to explore some of my pet projects to get a glimpse of what I've been working on:
 
 1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal)
 2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station)
