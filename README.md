@@ -6,13 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=6&layout=compact&theme=slateorange" style="height: 150px;" />
 </div>
 
-### 🚀 My some astro photos on Saturday, December 2, 2023
+### 🚀 My some astro photos on Sunday, December 3, 2023
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://astro.miksoft.pro/api/photos/M74-290m-2021.03.19_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/M109-345m-2021.03.17_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_6946-585m-2021.01.12_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/HCG_92-280m-2020.09.27_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/M_33-2021.05.31_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/NGC_6823-195m-2021.02.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/M101-915m-2021.04.26_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/IC_1871-630m-2021.01.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
