@@ -1,4 +1,4 @@
-const imageHost = 'https://astro.miksoft.pro/api/photos/'
+const imageHost = 'https://api.astro.miksoft.pro/photos/'
 const fs = require('fs')
 const axios = require('axios')
 const today = new Date().toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
