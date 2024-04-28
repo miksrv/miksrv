@@ -9,10 +9,10 @@
 ### 🚀 My some astro photos on Sunday, April 28, 2024
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://astro.miksoft.pro/api/photos/IC_1871-630m-2021.01.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/Sh2_132-750m-2022.06.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_281-370m-2021.01.14_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_281-2023.10.05_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_6992-2021.01.15_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_2239-160m-2021.03.21_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M51-625m-2022.05.15_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_4565-450m-2021.05.10_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
