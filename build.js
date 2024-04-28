@@ -3,7 +3,7 @@ const fs = require('fs')
 const axios = require('axios')
 const today = new Date().toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
 
-const result = axios.get('https://astro.miksoft.pro/api/photo?order=random&limit=4').then((result) => {
+const result = axios.get('https://api.astro.miksoft.pro/photo?order=random&limit=4').then((result) => {
     let photoContent = ''
 
     result.data.items.forEach((photo, index) => {
