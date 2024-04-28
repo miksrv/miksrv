@@ -6,13 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=6&layout=compact&theme=slateorange" style="height: 150px;" />
 </div>
 
-### 🚀 My some astro photos on Friday, February 16, 2024
+### 🚀 My some astro photos on Sunday, April 28, 2024
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://astro.miksoft.pro/api/photos/M_33-2021.05.31_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_7000-400m-2021.01.13_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_7000-305m-2020.08.25_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://astro.miksoft.pro/api/photos/NGC_2239-160m-2021.03.21_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/IC_1871-630m-2021.01.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/Sh2_132-750m-2022.06.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/NGC_281-370m-2021.01.14_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://astro.miksoft.pro/api/photos/NGC_281-2023.10.05_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
@@ -31,8 +31,9 @@ Feel free to explore some of my pet projects to get a glimpse of what I've been 
 6. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller)
 7. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap)
 8. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization)
-9. 🚧 [Observatory Imagery Management](https://github.com/miksrv/observatory)
-10. 🚧 [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
-11. 🚧 [API Backend Server](https://github.com/miksrv/api-backend)
-12. 🚧 [Personal VC React](https://github.com/miksrv/react-personal-webpage)
-13. 🚧 [Personal VC PHP](https://github.com/miksrv/vcard)
+9. [Sketch Drawing Widget](https://github.com/miksrv/sketch-drawing-widget)
+10. 🚧 [Observatory Imagery Management](https://github.com/miksrv/observatory)
+11. 🚧 [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
+12. 🚧 [API Backend Server](https://github.com/miksrv/api-backend)
+13. 🚧 [Personal VC React](https://github.com/miksrv/react-personal-webpage)
+14. 🚧 [Personal VC PHP](https://github.com/miksrv/vcard)
