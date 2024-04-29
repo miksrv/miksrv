@@ -9,10 +9,10 @@
 ### 🚀 My some astro photos on Monday, April 29, 2024
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7380-200m-2021.03.21_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/V1405_Cas_21m_2021.03.26_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M_13-2022.05.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6823-195m-2021.02.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_896-710m-2022.02.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_2239-160m-2021.03.21_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M109-345m-2021.03.17_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_1396-1110m-2020.10.20_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
@@ -32,8 +32,9 @@ Feel free to explore some of my pet projects to get a glimpse of what I've been 
 7. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap)
 8. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization)
 9. [Sketch Drawing Widget](https://github.com/miksrv/sketch-drawing-widget)
-10. 🚧 [Observatory Imagery Management](https://github.com/miksrv/observatory)
-11. 🚧 [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
-12. 🚧 [API Backend Server](https://github.com/miksrv/api-backend)
-13. 🚧 [Personal VC React](https://github.com/miksrv/react-personal-webpage)
-14. 🚧 [Personal VC PHP](https://github.com/miksrv/vcard)
+10. [Asteroid Monitoring System](https://github.com/miksrv/asteroid-monitoring)
+11. 🚧 [Observatory Imagery Management](https://github.com/miksrv/observatory)
+12. 🚧 [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old)
+13. 🚧 [API Backend Server](https://github.com/miksrv/api-backend)
+14. 🚧 [Personal VC React](https://github.com/miksrv/react-personal-webpage)
+15. 🚧 [Personal VC PHP](https://github.com/miksrv/vcard)
