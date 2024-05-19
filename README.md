@@ -9,15 +9,15 @@
 ### 🚀 My some astro photos on Sunday, May 19, 2024
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/IC_1805-430m-2021.01.22_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M5-60m-2021.08.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/IC_1396-2023.06.28_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6995-2021.08.22_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M33-630m-2020.12.25_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M_57-2022.05.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-2023.09.25_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_1396-1110m-2020.10.20_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
 
-I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development.
+I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development. However, I am also interested in many other areas in IT.
 
 Beyond my programming journey, I have a diverse range of interests that beautifully complement my technical pursuits. I'm an avid enthusiast of tourism, astronomy, photography, and radio electronics. What's truly exciting is how each of these passions intertwines with the world of programming.
 
