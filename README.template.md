@@ -14,7 +14,7 @@
 
 ### 🔭 About of me
 
-I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development.
+I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development. However, I am also interested in many other areas in IT.
 
 Beyond my programming journey, I have a diverse range of interests that beautifully complement my technical pursuits. I'm an avid enthusiast of tourism, astronomy, photography, and radio electronics. What's truly exciting is how each of these passions intertwines with the world of programming.
 
