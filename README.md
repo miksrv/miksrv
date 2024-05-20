@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Misha.
-🌐 More information about me: [miksoft.pro](https://miksoft.pro)
+🌐 More about me: [miksoft.pro](https://miksoft.pro)
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=slateorange&hide_title=true&include_all_commits=true&count_private=true" style="height: 150px;" />
@@ -9,10 +9,10 @@
 ### 🚀 My some astro photos on Monday, May 20, 2024
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7023-210m-2021.01.30_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_5907-685m-2021.05.19_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7822-720m-2020.11.07_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6992-335m-2022.04.11_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-305m-2020.08.25_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_1805-430m-2021.01.22_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/2023ixf-2023.08.17_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_405-660m-2020.10.13_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
