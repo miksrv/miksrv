@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Misha.
-🌐 More information about me: [miksoft.pro](https://miksoft.pro)
+🌐 More about me: [miksoft.pro](https://miksoft.pro)
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=slateorange&hide_title=true&include_all_commits=true&count_private=true" style="height: 150px;" />
