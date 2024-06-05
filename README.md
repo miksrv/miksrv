@@ -6,13 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=6&layout=compact&theme=slateorange" style="height: 150px;" />
 </div>
 
-### 🚀 My some astro photos on Tuesday, June 4, 2024
+### 🚀 My some astro photos on Wednesday, June 5, 2024
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/SN2021vaz-455m-2021.10.11_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M_33-2021.05.31_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7217-519m-2021.08.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/2023ixf-2023.05.21_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-2023.09.25_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M_81-2021.05.31_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-2023.10.16_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_2146-320min-2021.03.18_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ### 🔭 About of me
