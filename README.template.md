@@ -1,22 +1,26 @@
-### Hi there 👋 I'm Misha.
+# Hi there 👋 I'm Misha
 🌐 Learn more about me: [miksoft.pro](https://miksoft.pro)
+
+I'm a passionate software developer with a deep love for coding that began at the age of 16. Over the years, I've become proficient in several programming languages, with a recent focus on frontend development.
+
+Beyond coding, I have a strong interest in tourism, astronomy, photography, and radio electronics. These hobbies not only enrich my life but also complement my technical skills, allowing me to merge creativity with technology.
+
+## 🔭 Some of my astro photos on {{TODAY}}
+
+I'm deeply fascinated by the wonders of the night sky. As an amateur astronomer, I’ve built a remote-controlled observatory that allows me to capture stunning images of various astronomical objects. From distant galaxies to nearby planets, my observatory operates autonomously, bringing the universe closer through my lens. Here are a few snapshots of what I’ve captured recently:
+
+<div style="display: flex; justify-content: space-between;">
+{{PHOTOS}}
+</div>
+
+## 📊 GitHub Statistic
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=slateorange&hide_title=true&include_all_commits=true&count_private=true" style="height: 150px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=6&layout=compact&theme=slateorange" style="height: 150px;" />
 </div>
 
-### 🔭 Some of my astro photos on {{TODAY}}
-
-<div style="display: flex; justify-content: space-between;">
-{{PHOTOS}}
-</div>
-
-### 🚀 About Me
-
-I'm a passionate software developer with a deep love for coding that began at the age of 16. Over the years, I've become proficient in several programming languages, with a recent focus on frontend development.
-
-Beyond coding, I have a strong interest in tourism, astronomy, photography, and radio electronics. These hobbies not only enrich my life but also complement my technical skills, allowing me to merge creativity with technology.
+## 👨🏻‍💻 Some of My Pet Projects
 
 Feel free to explore some of my personal projects to see what I’ve been working on:
 
