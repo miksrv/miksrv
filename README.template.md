@@ -1,24 +1,24 @@
 ### Hi there 👋 I'm Misha.
-🌐 More about me: [miksoft.pro](https://miksoft.pro)
+🌐 Learn more about me: [miksoft.pro](https://miksoft.pro)
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=slateorange&hide_title=true&include_all_commits=true&count_private=true" style="height: 150px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=6&layout=compact&theme=slateorange" style="height: 150px;" />
 </div>
 
-### 🚀 My some astro photos on {{TODAY}}
+### 🔭 Some of my astro photos on {{TODAY}}
 
 <div style="display: flex; justify-content: space-between;">
 {{PHOTOS}}
 </div>
 
-### 🔭 About of me
+### 🚀 About Me
 
-I'm passionate about programming, and I've been immersed in the world of code since the age of 16. Over the years, I've honed my skills in several programming languages, but recently, I've found a particular love for frontend development. However, I am also interested in many other areas in IT.
+I'm a passionate software developer with a deep love for coding that began at the age of 16. Over the years, I've become proficient in several programming languages, with a recent focus on frontend development.
 
-Beyond my programming journey, I have a diverse range of interests that beautifully complement my technical pursuits. I'm an avid enthusiast of tourism, astronomy, photography, and radio electronics. What's truly exciting is how each of these passions intertwines with the world of programming.
+Beyond coding, I have a strong interest in tourism, astronomy, photography, and radio electronics. These hobbies not only enrich my life but also complement my technical skills, allowing me to merge creativity with technology.
 
-Feel free to explore some of my pet projects to get a glimpse of what I've been working on:
+Feel free to explore some of my personal projects to see what I’ve been working on:
 
 1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal)
 2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station)
