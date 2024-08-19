@@ -1,25 +1,30 @@
 {
     "name": "miksrv",
     "version": "1.0.1",
-    "description": "Generate README",
-    "main": "build.js",
+    "private": false,
+    "description": "Personal GitHub repository for Misha's homepage with an auto-updated README displaying astro photos and project information.",
+    "keywords": ["GitHub", "homepage", "README", "astro photos", "personal projects"],
+    "author": "Misha Topchilo <miksoft.tm@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/miksrv/miksrv.git"
+    },
+    "homepage": "https://miksoft.pro",
+    "bugs": {
+        "url": "https://github.com/miksrv/miksrv/issues"
+    },
     "scripts": {
         "start": "node build.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Spiderpig86/Spiderpig86.git"
-    },
-    "author": "Stanley Lim",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Spiderpig86/Spiderpig86/issues"
-    },
-    "homepage": "https://github.com/Spiderpig86/Spiderpig86#readme",
     "dependencies": {
         "axios": "^0.21.1",
         "markdown-it": "^11.0.0",
         "markdown-it-emoji": "^1.4.0"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=14.0.0"
     }
 }
