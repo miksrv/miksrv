@@ -26,7 +26,7 @@ Feel free to explore some of my personal projects to see what I’ve been workin
 
 1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal) - A portal for managing and sharing astronomical observations.
 2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station) - A DIY weather station using Arduino.
-3. [Software Engineer VC](https://github.com/miksrv/nextjs-vcard-project) - A virtual business card built with NextJS and TypeScript.
+3. [Developer Portfolio Website](https://github.com/miksrv/developer-portfolio-website) - Example of Personal Portfolio Website for Developers.
 4. [Metal Construction Sketching Widget](https://github.com/miksrv/sketch-drawing-widget) - A ReactJS widget for drawing and visualizing metal constructions.
 5. [Astronomical FITS Image Analyzer](https://github.com/miksrv/astronomy-fits-parser) - A tool for analyzing astronomical FITS images.
 6. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller) - Software for controlling the roof of an observatory.
