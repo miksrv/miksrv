@@ -10,10 +10,10 @@ Beyond coding, I have a strong interest in tourism, astronomy, photography, and 
 I'm deeply fascinated by the wonders of the night sky. As an amateur astronomer, I’ve built a remote-controlled observatory that allows me to capture stunning images of various astronomical objects. From distant galaxies to nearby planets, my observatory operates autonomously, bringing the universe closer through my lens. Here are a few snapshots of what I’ve captured recently:
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/M_13-2022.05.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7822-720m-2020.11.07_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6992-2023.08.20_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/IC_1871-630m-2021.01.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_6946-585m-2021.01.12_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M51-225m-2020.09.22_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_896-710m-2022.02.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7635-445m-2020.10.13_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ## 📊 GitHub Statistic
@@ -29,7 +29,7 @@ Feel free to explore some of my personal projects to see what I’ve been workin
 
 1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal) - A portal for managing and sharing astronomical observations.
 2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station) - A DIY weather station using Arduino.
-3. [Software Engineer VC](https://github.com/miksrv/nextjs-vcard-project) - A virtual business card built with NextJS and TypeScript.
+3. [Developer Portfolio Website](https://github.com/miksrv/developer-portfolio-website) - Example of Personal Portfolio Website for Developers.
 4. [Metal Construction Sketching Widget](https://github.com/miksrv/sketch-drawing-widget) - A ReactJS widget for drawing and visualizing metal constructions.
 5. [Astronomical FITS Image Analyzer](https://github.com/miksrv/astronomy-fits-parser) - A tool for analyzing astronomical FITS images.
 6. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller) - Software for controlling the roof of an observatory.
