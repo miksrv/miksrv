@@ -27,15 +27,11 @@ Feel free to explore some of my personal projects to see what I’ve been workin
 1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal) - A portal for managing and sharing astronomical observations.
 2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station) - A DIY weather station using Arduino.
 3. [Developer Portfolio Website](https://github.com/miksrv/developer-portfolio-website) - Example of Personal Portfolio Website for Developers.
-4. [Metal Construction Sketching Widget](https://github.com/miksrv/sketch-drawing-widget) - A ReactJS widget for drawing and visualizing metal constructions.
-5. [Astronomical FITS Image Analyzer](https://github.com/miksrv/astronomy-fits-parser) - A tool for analyzing astronomical FITS images.
-6. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller) - Software for controlling the roof of an observatory.
-7. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - Firmware for an automatic telescope lens cap.
-8. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - A system for maintaining the thermal balance of a telescope.
-9. [Sketch Drawing Widget](https://github.com/miksrv/sketch-drawing-widget) - A versatile tool for metal construction design.
-10. [Asteroid Monitoring System](https://github.com/miksrv/asteroid-monitoring) - A system for tracking and analyzing asteroids.
-11. 🚧 [Observatory Imagery Management](https://github.com/miksrv/observatory) - A project under development for managing observatory images.
-12. 🚧 [Arduino Weather Controller](https://github.com/miksrv/arduino-weather-station-old) - A legacy project for weather station control.
-13. 🚧 [API Backend Server](https://github.com/miksrv/api-backend) - A backend server for various applications.
-14. 🚧 [Personal VC React](https://github.com/miksrv/react-personal-webpage) - My personal website built with React.
-15. 🚧 [Personal VC PHP](https://github.com/miksrv/vcard) - A PHP version of my virtual business card.
+4. [Simple UI React Kit](https://github.com/miksrv/simple-react-ui-kit) - Simple and lightweight React UI framework built with TypeScript.
+5. [Metal Construction Sketching Widget](https://github.com/miksrv/sketch-drawing-widget) - A ReactJS widget for drawing and visualizing metal constructions.
+6. [Astronomical FITS Image Analyzer](https://github.com/miksrv/astronomy-fits-parser) - A tool for analyzing astronomical FITS images.
+7. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller) - Software for controlling the roof of an observatory.
+8. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - Firmware for an automatic telescope lens cap.
+9. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - A system for maintaining the thermal balance of a telescope.
+11. [Asteroid Monitoring System](https://github.com/miksrv/asteroid-monitoring) - A system for tracking and analyzing asteroids.
+12. [GitHub Project README Template](https://github.com/miksrv/GitHub-Project-README-Template) - versatile README template designed to kickstart GitHub projects with a comprehensive and structured guide.
