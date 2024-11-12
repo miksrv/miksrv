@@ -5,15 +5,15 @@ I'm a passionate software developer with a deep love for coding that began at th
 
 Beyond coding, I have a strong interest in tourism, astronomy, photography, and radio electronics. These hobbies not only enrich my life but also complement my technical skills, allowing me to merge creativity with technology.
 
-## 🔭 Some of my astro photos on Monday, November 11, 2024
+## 🔭 Some of my astro photos on Tuesday, November 12, 2024
 
 I'm deeply fascinated by the wonders of the night sky. As an amateur astronomer, I’ve built a remote-controlled observatory that allows me to capture stunning images of various astronomical objects. From distant galaxies to nearby planets, my observatory operates autonomously, bringing the universe closer through my lens. Here are a few snapshots of what I’ve captured recently:
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/M_82-2023.07.20_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6888-340-2021.01.04_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7217-519m-2021.08.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_1491-290m-2021.03.11_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M109-345m-2021.03.17_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M33-630m-2020.12.25_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_1396-2023.06.28_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7635-445m-2020.10.13_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ## 📊 GitHub Statistic
