@@ -1,19 +1,29 @@
-# Hi there 👋 I'm Misha
+# Hi there 👋 I'm Misha  
 🌐 Learn more about me: [miksoft.pro](https://miksoft.pro)
 
-I'm a passionate software developer with a deep love for coding that began at the age of 16. Over the years, I've become proficient in several programming languages, with a recent focus on frontend development.
+I'm a passionate software developer with a love for coding that started at 16. Over the years, I’ve honed my skills in multiple programming languages, focusing recently on frontend development and modern web technologies.
 
-Beyond coding, I have a strong interest in tourism, astronomy, photography, and radio electronics. These hobbies not only enrich my life but also complement my technical skills, allowing me to merge creativity with technology.
+Beyond coding, I explore my curiosity through hobbies like astronomy, photography, radio electronics, and traveling with my family. These interests not only enrich my personal life but also inspire creative approaches to solving technical challenges.
 
-## 🔭 Some of my astro photos on Monday, November 18, 2024
+## 🌟 Quick Facts About Me  
 
-I'm deeply fascinated by the wonders of the night sky. As an amateur astronomer, I’ve built a remote-controlled observatory that allows me to capture stunning images of various astronomical objects. From distant galaxies to nearby planets, my observatory operates autonomously, bringing the universe closer through my lens. Here are a few snapshots of what I’ve captured recently:
+💻 **Coding Enthusiast**: I thrive on solving complex problems and building innovative solutions with code.  
+🌌 **Astronomy Lover**: I operate a remote robotic observatory to capture breathtaking views of the cosmos.  
+🌍 **Travel & Adventure**: I love hiking and exploring the world with my family, connecting with nature.  
+🌐 **Polyglot Developer**: Fluent in **TypeScript**, **PHP**, **Python**, and other programming languages.  
+📚 **Lifelong Learner**: Constantly diving into new technologies, skills, and creative hobbies.  
+
+## 🔭 Some of My Astro Photos as of Monday, November 18, 2024  
+
+The night sky has always inspired me. As an amateur astronomer, I’ve built a remote-controlled observatory to explore and photograph celestial wonders. From distant galaxies to planets and nebulae, I bring the beauty of the universe a little closer.  
+
+Here are some of my latest astronomy photos:
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/IC_1396-2023.06.28_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M5-60m-2021.08.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-2023.10.16_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/IC_1396-2020.10.09_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-2023.10.19_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_6992-2021.01.15_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/UGC_6930-40m-2020.08.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M63-315m-2021.03.17_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ## 📊 GitHub Statistic
