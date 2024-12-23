@@ -20,10 +20,10 @@ The night sky has always inspired me. As an amateur astronomer, I’ve built a r
 Here are some of my latest astronomy photos:
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6992-335m-2022.04.11_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M_13-2021.08.06_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M27-370m-2022.06.16_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/M63-315m-2021.03.17_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_1491-290m-2021.03.11_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_5146-210m-2021.02.07_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7331-480m-2021.01.26_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7217-2022.05.24_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ## 📊 GitHub Statistic
@@ -47,4 +47,4 @@ Feel free to explore some of my personal projects to see what I’ve been workin
 8. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - Firmware for an automatic telescope lens cap.
 9. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - A system for maintaining the thermal balance of a telescope.
 11. [Asteroid Monitoring System](https://github.com/miksrv/asteroid-monitoring) - A system for tracking and analyzing asteroids.
-12. [GitHub Project README Template](https://github.com/miksrv/GitHub-Project-README-Template) - versatile README template designed to kickstart GitHub projects with a comprehensive and structured guide.
+12. [GitHub Project README Template](https://github.com/miksrv/GitHub-Project-README-Template) - README template designed to kickstart GitHub projects with a comprehensive and structured guide.
