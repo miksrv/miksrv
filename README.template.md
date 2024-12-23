@@ -44,4 +44,4 @@ Feel free to explore some of my personal projects to see what I’ve been workin
 8. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - Firmware for an automatic telescope lens cap.
 9. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - A system for maintaining the thermal balance of a telescope.
 11. [Asteroid Monitoring System](https://github.com/miksrv/asteroid-monitoring) - A system for tracking and analyzing asteroids.
-12. [GitHub Project README Template](https://github.com/miksrv/GitHub-Project-README-Template) - versatile README template designed to kickstart GitHub projects with a comprehensive and structured guide.
+12. [GitHub Project README Template](https://github.com/miksrv/GitHub-Project-README-Template) - README template designed to kickstart GitHub projects with a comprehensive and structured guide.
