@@ -13,17 +13,17 @@ Beyond coding, I explore my curiosity through hobbies like astronomy, photograph
 🌐 **Polyglot Developer**: Fluent in **TypeScript**, **PHP**, **Python**, and other programming languages.  
 📚 **Lifelong Learner**: Constantly diving into new technologies, skills, and creative hobbies.  
 
-## 🔭 Some of My Astro Photos as of Sunday, January 19, 2025  
+## 🔭 Some of My Astro Photos as of Monday, January 20, 2025  
 
 The night sky has always inspired me. As an amateur astronomer, I’ve built a remote-controlled observatory to explore and photograph celestial wonders. From distant galaxies to planets and nebulae, I bring the beauty of the universe a little closer.  
 
 Here are some of my latest astronomy photos:
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6888-340-2021.01.04_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/Sh2_155-150m-2021.01.27_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/Sh2_132-2021.08.07_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-   <img src="https://api.astro.miksoft.pro/photos/NGC_6992-335m-2022.04.11_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7635-460m-2021.01.27_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/IC_434-120m-2021.01.23_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/NGC_7000-2023.10.19_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+   <img src="https://api.astro.miksoft.pro/photos/M82-370m-2020.08.22_thumb.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ## 📊 GitHub Statistic
