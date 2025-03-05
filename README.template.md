@@ -7,11 +7,11 @@ Beyond coding, I’m driven by curiosity and hands-on exploration. From **astron
 
 ## 🌟 Quick Facts About Me  
 
-💻 **Developer** – I love solving complex problems and building efficient solutions.
-🌌 **Astronomy Enthusiast** – I run a remote robotic observatory for deep-space imaging.
-🏕️ **Explorer** – Traveling and hiking with my family is my way to recharge.
-🛠️ **Tech Stack** – Experienced with TypeScript, PHP, Python, and more.
-📚 **Lifelong Learner** – Always exploring new technologies and creative pursuits.
+💻 **Developer** – I love solving complex problems and building efficient solutions.  
+🌌 **Astronomy Enthusiast** – I run a remote robotic observatory for deep-space imaging.  
+🏕️ **Explorer** – Traveling and hiking with my family is my way to recharge.  
+🛠️ **Tech Stack** – Experienced with TypeScript, PHP, Python, and more.  
+📚 **Lifelong Learner** – Always exploring new technologies and creative pursuits.  
 
 ## 🔭 Some of My Astro Photos as of {{TODAY}}  
 
