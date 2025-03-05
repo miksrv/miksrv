@@ -7,11 +7,11 @@ Beyond coding, I’m driven by curiosity and hands-on exploration. From **astron
 
 ## 🌟 Quick Facts About Me  
 
-💻 **Developer** – I love solving complex problems and building efficient solutions.
-🌌 **Astronomy Enthusiast** – I run a remote robotic observatory for deep-space imaging.
-🏕️ **Explorer** – Traveling and hiking with my family is my way to recharge.
-🛠️ **Tech Stack** – Experienced with TypeScript, PHP, Python, and more.
-📚 **Lifelong Learner** – Always exploring new technologies and creative pursuits.
+💻 **Developer** – I love solving complex problems and building efficient solutions.  
+🌌 **Astronomy Enthusiast** – I run a remote robotic observatory for deep-space imaging.  
+🏕️ **Explorer** – Traveling and hiking with my family is my way to recharge.  
+🛠️ **Tech Stack** – Experienced with TypeScript, PHP, Python, and more.  
+📚 **Lifelong Learner** – Always exploring new technologies and creative pursuits.  
 
 ## 🔭 Some of My Astro Photos as of Wednesday, March 5, 2025  
 
@@ -20,10 +20,10 @@ The night sky has always inspired me. As an amateur astronomer, I’ve built a r
 Here are some of my latest astronomy photos:
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC281/NGC281-14.01.2021_medium.jpeg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M63/M63-17.03.2021_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M13/M13-19.04.2017_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/IC63/IC63-23.01.2021_medium.jpeg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/IC434/IC434-31.05.2022_medium.jpeg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 <img src="https://api.astro.miksoft.pro/astrophotos/M51/M51-13.06.2018_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/IC1805/IC1805-31.05.2021_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 
 </div>
 
