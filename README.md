@@ -13,17 +13,17 @@ Beyond coding, I’m driven by curiosity and hands-on exploration. From **astron
 🛠️ **Tech Stack** – Experienced with TypeScript, PHP, Python, and more.  
 📚 **Lifelong Learner** – Always exploring new technologies and creative pursuits.  
 
-## 🔭 Some of My Astro Photos as of Monday, May 26, 2025  
+## 🔭 Some of My Astro Photos as of Tuesday, May 27, 2025  
 
 The night sky has always inspired me. As an amateur astronomer, I’ve built a remote-controlled observatory to explore and photograph celestial wonders. From distant galaxies to planets and nebulae, I bring the beauty of the universe a little closer.  
 
 Here are some of my latest astronomy photos:
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6888/NGC6888-04.06.2019_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M13/M13-13.06.2018_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6946/NGC6946-15.03.2018_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC7000/NGC7000-25.08.2020_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M13/M13-19.04.2017_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M45/M45-22.09.2015_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7000/NGC7000-19.10.2023_medium.jpeg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7023/NGC7023-04.09.2021_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
 ## 📊 GitHub Statistic
