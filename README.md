@@ -56,12 +56,10 @@ Engineering responsibilities included:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="center" style="display: flex">
   <img src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
-
----
 
 ## 📈 GitHub Activity
 
@@ -93,10 +91,10 @@ Every component - firmware, drivers, pipelines, web portal - is custom-built.
 **Latest imagery from the system - captured and processed automatically:**
 
 <p align="center">
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6946/NGC6946-01.11.2018_medium.jpg" alt="NGC6946" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7635/NGC7635-05.07.2020_medium.jpg" alt="NGC7635" width="23%" />
 <img src="https://api.astro.miksoft.pro/astrophotos/NGC7000/NGC7000-25.05.2017_medium.jpg" alt="NGC7000" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M101/M101-29.04.2017_medium.jpg" alt="M101" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC281/NGC281-14.01.2021_medium.jpeg" alt="NGC281" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M42/M42-22.02.2021_medium.jpg" alt="M42" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC6888/NGC6888-21.02.2021_medium.jpg" alt="NGC6888" width="23%" />
 </p>
 
 *Multi-hour long-exposure composites of deep-sky objects: galaxies, nebulae, and star clusters captured and published fully autonomously.*
@@ -162,8 +160,6 @@ If you're building something ambitious - a product that needs architecture, lead
 [![Website](https://img.shields.io/badge/miksoft.pro-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://miksoft.pro)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikcatsvill/)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksoft)&nbsp;
-
----
 
 <details>
 <summary>Engineering philosophy</summary>
