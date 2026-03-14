@@ -56,12 +56,10 @@ Engineering responsibilities included:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="center" style="display: flex">
   <img src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
-
----
 
 ## 📈 GitHub Activity
 
@@ -159,8 +157,6 @@ If you're building something ambitious - a product that needs architecture, lead
 [![Website](https://img.shields.io/badge/miksoft.pro-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://miksoft.pro)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikcatsvill/)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksoft)&nbsp;
-
----
 
 <details>
 <summary>Engineering philosophy</summary>
