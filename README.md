@@ -56,9 +56,9 @@ Engineering responsibilities included:
 
 ## 📊 GitHub Statistics
 
-<p align="center" style="display: flex">
-  <img src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
+<p align="center">
+  <img height="165px" src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
 
 ## 📈 GitHub Activity
