@@ -56,9 +56,9 @@ Engineering responsibilities included:
 
 ## 📊 GitHub Statistics
 
-<p align="center" style="display: flex">
-  <img src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
+<p align="center">
+  <img height="165px" src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
 
 ## 📈 GitHub Activity
@@ -91,10 +91,10 @@ Every component - firmware, drivers, pipelines, web portal - is custom-built.
 **Latest imagery from the system - captured and processed automatically:**
 
 <p align="center">
-<img src="https://api.astro.miksoft.pro/astrophotos/M81/M81-22.08.2023_medium.jpeg" alt="M81" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/IC434/IC434-31.05.2022_medium.jpeg" alt="IC434" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M109/M109-17.03.2021_medium.jpeg" alt="M109" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M87/M87-18.03.2018_medium.jpg" alt="M87" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7000/NGC7000-16.10.2023_medium.jpeg" alt="NGC7000" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M13/M13-21.01.2021_medium.jpg" alt="M13" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M81-M82/M81-M82-16.07.2017_medium.jpg" alt="M81-M82" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M33/M33-08.09.2015_medium.jpg" alt="M33" width="23%" />
 </p>
 
 *Multi-hour long-exposure composites of deep-sky objects: galaxies, nebulae, and star clusters captured and published fully autonomously.*
