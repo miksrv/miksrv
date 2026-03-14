@@ -1,14 +1,18 @@
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miksrv&color=0891b2&style=flat-square&label=profile+views)
 
-# Misha Topchilo
+# Hey There! 👋 I'm Misha Topchilo
 
 #### Tech Lead &nbsp;·&nbsp; Software Architect &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; AI Builder
 
 *Building complex systems from zero to production -*
 *architecture, backend, frontend, infrastructure, and engineering processes.*
 
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,php" height="24" style="margin-right:4px;" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,vite,tailwind" height="24" style="margin-right:4px;" />
+<img src="https://skillicons.dev/icons?i=docker,fastapi,nodejs,mysql,laravel,graphql,linux" height="24" style="margin-right:4px;" />
+<img src="https://skillicons.dev/icons?i=git,arduino,jest,jenkins,github,bash" height="24" style="margin-right:4px;" />
 </div>
 
 ---
@@ -50,43 +54,11 @@ Engineering responsibilities included:
 - infrastructure
 - automation pipelines
 
-## ⚙️ Tech Stack
-
-**Languages**
-
-<span>
-  <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,php" height="24" style="margin-right:4px;" />
-</span>
-
-**Frontend**
-
-<span>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,vite,tailwind" height="24" style="margin-right:4px;" />
-</span>
-
-**Backend & Infrastructure**
-
-<span>
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,nodejs,laravel,graphql,linux" height="24" style="margin-right:4px;" />
-</span>
-
-**Tools & Workflow**
-
-<span>
-  <img src="https://skillicons.dev/icons?i=git,arduino,github,bash" height="24" style="margin-right:4px;" />
-</span>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=8&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&hide_border=true&theme=gruvbox" />
 </p>
 
 ---
@@ -94,7 +66,7 @@ Engineering responsibilities included:
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miksrv&theme=gruvbox&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miksrv&theme=monokai&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -121,10 +93,10 @@ Every component - firmware, drivers, pipelines, web portal - is custom-built.
 **Latest imagery from the system - captured and processed automatically:**
 
 <p align="center">
-<img src="https://api.astro.miksoft.pro/astrophotos/M13/M13-04.08.2018_medium.jpg" alt="M13" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC7635/NGC7635-21.08.2020_medium.jpg" alt="NGC7635" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC7217/NGC7217-24.04.2022_medium.jpg" alt="NGC7217" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC4631/NGC4631-25.08.2020_medium.jpg" alt="NGC4631" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC6946/NGC6946-01.11.2018_medium.jpg" alt="NGC6946" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7000/NGC7000-25.05.2017_medium.jpg" alt="NGC7000" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M101/M101-29.04.2017_medium.jpg" alt="M101" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC281/NGC281-14.01.2021_medium.jpeg" alt="NGC281" width="23%" />
 </p>
 
 *Multi-hour long-exposure composites of deep-sky objects: galaxies, nebulae, and star clusters captured and published fully autonomously.*
@@ -157,12 +129,12 @@ Every component - firmware, drivers, pipelines, web portal - is custom-built.
   <tr>
     <td><a href="https://github.com/miksrv/arduino-weather-station"><b>Arduino Weather Station</b></a></td>
     <td>Self-contained environmental monitoring system with multi-sensor fusion, local data logging, and API publishing - feeds real-time data into observatory automation decisions</td>
-    <td>C++ · Arduino</td>
+    <td>C++ · Arduino · TypeScript · React · PHP</td>
   </tr>
   <tr>
     <td><a href="https://github.com/miksrv/asteroid-monitoring"><b>Asteroid Monitoring System</b></a></td>
     <td>Near-Earth object tracking system ingesting public space agency data feeds, correlating observations, and generating alerts</td>
-    <td>Python</td>
+    <td>TypeScript · React</td>
   </tr>
   <tr>
     <td><a href="https://github.com/miksrv/astronomy-fits-parser"><b>FITS Image Analyzer</b></a></td>
