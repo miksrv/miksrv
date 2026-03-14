@@ -1,32 +1,29 @@
 const imageHost = 'https://api.astro.miksoft.pro/astrophotos/'
-const fs = require('fs')
+const fs = require('fs').promises
 const axios = require('axios')
-const today = new Date().toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
 
-const result = axios.get('https://api.astro.miksoft.pro/photos?limit=4&order=rand').then((result) => {
-    let photoContent = ''
-
-    const items = result?.data?.items || [];
-
-    items?.forEach((photo, index) => {
-        photoContent += (`<img src="${imageHost}${photo.dirName}/${photo.fileName}_medium.${photo.fileExt}" alt="" style="width: 24%; height: 150px; object-fit: cover;" />`)
-
-        if ((index + 1) < result.data.items.length) {
-            photoContent += "\n"
-        }
-    })
-
-    fs.readFile('./README.template.md', 'utf8', (err, data) => {
-        const content = data
-            .replace(/\{\{PHOTOS\}\}/, photoContent)
-            .replace(/\{\{TODAY\}\}/, today)
-
-        fs.writeFile('README.md', content, (err) => {
-            if (err) {
-                return console.error(err)
-            }
-            console.info('Writing to README.md')
-        })
-    })
+const today = new Date().toLocaleDateString('en-US', {
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
 })
 
+async function buildReadme() {
+    const response = await axios.get('https://api.astro.miksoft.pro/photos?limit=4&order=rand')
+    const items = response.data?.items ?? []
+
+    const photoContent = items
+        .map(photo => `<img src="${imageHost}${photo.dirName}/${photo.fileName}_medium.${photo.fileExt}" alt="${photo.dirName}" width="23%" />`)
+        .join('\n')
+
+    const template = await fs.readFile('./README.template.md', 'utf8')
+    const readme = template
+        .replace('{{PHOTOS}}', photoContent)
+        .replace('{{TODAY}}', today)
+
+    await fs.writeFile('README.md', readme)
+    console.log('README.md written successfully')
+}
+
+buildReadme().catch(err => {
+    console.error('Failed to build README:', err.message)
+    process.exit(1)
+})
