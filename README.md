@@ -1,50 +1,207 @@
-# Hi there 👋 I'm Misha  
-🌐 Learn more about me: [miksoft.pro](https://miksoft.pro)
+<div align="center">
 
-I'm a **full-stack software developer** with a passion for crafting scalable and efficient web applications. My coding journey began at 16, and since then, I’ve explored multiple programming languages, focusing on **modern web technologies** and **frontend development**.
+![Profile Views](https://komarev.com/ghpvc/?username=miksrv&color=0891b2&style=flat-square&label=profile+views)
 
-Beyond coding, I’m driven by curiosity and hands-on exploration. From **astronomy** and **radio electronics** to **photography** and **traveling**, my hobbies fuel my creativity and problem-solving approach in software development.
+# Misha Topchilo
 
-## 🌟 Quick Facts About Me  
+#### Tech Lead &nbsp;·&nbsp; Software Architect &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; AI Builder
 
-💻 **Developer** – I love solving complex problems and building efficient solutions.  
-🌌 **Astronomy Enthusiast** – I run a remote robotic observatory for deep-space imaging.  
-🏕️ **Explorer** – Traveling and hiking with my family is my way to recharge.  
-🛠️ **Tech Stack** – Experienced with TypeScript, PHP, Python, and more.  
-📚 **Lifelong Learner** – Always exploring new technologies and creative pursuits.  
+*Building complex systems from zero to production -*
+*architecture, backend, frontend, infrastructure, and engineering processes.*
 
-## 🔭 Some of My Astro Photos as of Friday, March 13, 2026  
-
-The night sky has always inspired me. As an amateur astronomer, I’ve built a remote-controlled observatory to explore and photograph celestial wonders. From distant galaxies to planets and nebulae, I bring the beauty of the universe a little closer.  
-
-Here are some of my latest astronomy photos:
-
-<div style="display: flex; justify-content: space-between;">
-<img src="https://api.astro.miksoft.pro/astrophotos/IC434/IC434-31.05.2022_medium.jpeg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC896/NGC896-02.09.2022_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M51/M51-27.03.2019_medium.jpg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
-<img src="https://api.astro.miksoft.pro/astrophotos/Sh2168/Sh2168-20.01.2021_medium.jpeg" alt="" style="width: 24%; height: 150px; object-fit: cover;" />
 </div>
 
-## 📊 GitHub Statistic
+---
 
-<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=slateorange&hide_title=true&include_all_commits=true&count_private=true" style="height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=6&layout=compact&theme=slateorange" style="height: 150px;" />
-</div>
+## What I Build
 
-## 👨🏻‍💻 Some of My Pet Projects
+I design and ship **complete engineering systems** - from first principles to production. I don't hand off at the boundary of one discipline; I own outcomes across the full stack: architecture decisions, backend services, frontend products, infrastructure, hardware, and the teams that build it all.
 
-Feel free to explore some of my personal projects to see what I’ve been working on:
 
-1. [Amateur Astronomical Observatory](https://github.com/miksrv/astronomy-portal) - A portal for managing and sharing astronomical observations.
-2. [Arduino Weather Station](https://github.com/miksrv/arduino-weather-station) - A DIY weather station using Arduino.
-3. [Developer Portfolio Website](https://github.com/miksrv/developer-portfolio-website) - Example of Personal Portfolio Website for Developers.
-4. [Simple UI React Kit](https://github.com/miksrv/simple-react-ui-kit) - Simple and lightweight React UI framework built with TypeScript.
-5. [Metal Construction Sketching Widget](https://github.com/miksrv/sketch-drawing-widget) - A ReactJS widget for drawing and visualizing metal constructions.
-6. [Astronomical FITS Image Analyzer](https://github.com/miksrv/astronomy-fits-parser) - A tool for analyzing astronomical FITS images.
-7. [Observatory Roof Controller](https://github.com/miksrv/indi-rollroof-controller) - Software for controlling the roof of an observatory.
-8. [Arduino SnapCap Firmware](https://github.com/miksrv/arduino-snapcap) - Firmware for an automatic telescope lens cap.
-9. [Telescope Thermal Stabilization](https://github.com/miksrv/telescope_thermal_stabilization) - A system for maintaining the thermal balance of a telescope.
-11. [Asteroid Monitoring System](https://github.com/miksrv/asteroid-monitoring) - A system for tracking and analyzing asteroids.
-12. [GitHub Project README Template](https://github.com/miksrv/GitHub-Project-README-Template) - README template designed to kickstart GitHub projects with a comprehensive and structured guide.
+<table>
+  <tr>
+    <td align="center"><b>🏗️ Technical Leadership</b><br/><sub>Define engineering standards, drive architecture decisions, mentor engineers, own delivery</sub></td>
+    <td align="center"><b>🧩 System Architecture</b><br/><sub>Design scalable, maintainable systems - microservices, event-driven, or monolith - the right tool for the context</sub></td>
+    <td align="center"><b>⚡ Full-Stack Development</b><br/><sub>Ship production-grade React frontends and PHP/Python/Node backends that perform at scale</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI Integration</b><br/><sub>Build intelligent pipelines and product features with modern AI/ML tooling and APIs</sub></td>
+    <td align="center"><b>🔩 Hardware + Software</b><br/><sub>Design systems that cross the software/hardware boundary - firmware, embedded systems, sensors, automation</sub></td>
+    <td align="center"><b>🚀 Zero → Production</b><br/><sub>Take an idea from a blank file to a deployed product, independently, without hand-holding</sub></td>
+  </tr>
+</table>
+
+---
+
+## Systems I've Built
+
+Some of the engineering systems I've designed and shipped:
+
+• Large-scale web platforms serving thousands of users  
+• Autonomous hardware-software observatory system operating 24/7  
+• Data pipelines processing astronomical imagery and telemetry  
+• Production web applications with full-stack ownership
+
+Engineering responsibilities included:
+
+- architecture design
+- backend and API development
+- frontend applications
+- infrastructure
+- automation pipelines
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+<span>
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,php" height="24" style="margin-right:4px;" />
+</span>
+
+**Frontend**
+
+<span>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,vite,tailwind" height="24" style="margin-right:4px;" />
+</span>
+
+**Backend & Infrastructure**
+
+<span>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,nodejs,laravel,graphql,linux" height="24" style="margin-right:4px;" />
+</span>
+
+**Tools & Workflow**
+
+<span>
+  <img src="https://skillicons.dev/icons?i=git,arduino,github,bash" height="24" style="margin-right:4px;" />
+</span>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miksrv&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miksrv&langs_count=8&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=miksrv&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miksrv&theme=gruvbox&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🔭 Astronomy Engineering System - Saturday, March 14, 2026
+
+Most people have hobbies. I built a distributed engineering system.
+
+My remote robotic observatory is a fully automated, software-driven platform for deep-space imaging - running unattended every clear night, from power-on to image publishing, without human intervention. This is what systems engineering looks like outside a job description.
+
+**The system architecture:**
+
+| Layer | Engineering scope |
+|---|---|
+| **Observatory Automation** | Custom INDI-protocol roof driver with safety interlocks integrated into Ekos/KStars for fully autonomous open/close sequencing |
+| **Telescope Control** | Robotic slewing, auto-guiding, focusing, and platesolving via the INDI software stack |
+| **Imaging Pipeline** | Automated capture → calibration frames → stacking → post-processing → publishing |
+| **Weather Monitoring** | Real-time multi-sensor environmental monitoring feeding go/no-go decisions into the automation chain |
+| **Data Processing** | FITS image parsing, metadata extraction, object classification, and near-Earth object detection |
+| **Web Platform** | Full-stack portal for session management, public image catalogue, and community features |
+
+Every component - firmware, drivers, pipelines, web portal - is custom-built.
+
+**Latest imagery from the system - captured and processed automatically:**
+
+<p align="center">
+<img src="https://api.astro.miksoft.pro/astrophotos/M13/M13-04.08.2018_medium.jpg" alt="M13" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7635/NGC7635-21.08.2020_medium.jpg" alt="NGC7635" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC7217/NGC7217-24.04.2022_medium.jpg" alt="NGC7217" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC4631/NGC4631-25.08.2020_medium.jpg" alt="NGC4631" width="23%" />
+</p>
+
+*Multi-hour long-exposure composites of deep-sky objects: galaxies, nebulae, and star clusters captured and published fully autonomously.*
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Engineering scope</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miksrv/astronomy-portal"><b>Astronomical Observatory Portal</b></a></td>
+    <td>Full-stack platform managing autonomous observation sessions, image processing pipelines, a public astronomical catalogue, and community features</td>
+    <td>TypeScript · React · PHP</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miksrv/simple-react-ui-kit"><b>Simple React UI Kit</b></a></td>
+    <td>Lightweight, fully-typed React component library - built for production frontends where bundle size and performance matter</td>
+    <td>TypeScript · React</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miksrv/indi-rollroof-controller"><b>Observatory Roof Controller</b></a></td>
+    <td>INDI-protocol driver enabling fully automated observatory roof actuation with safety interlocks, integrated into professional astronomy software chains</td>
+    <td>C++ · INDI</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miksrv/arduino-weather-station"><b>Arduino Weather Station</b></a></td>
+    <td>Self-contained environmental monitoring system with multi-sensor fusion, local data logging, and API publishing - feeds real-time data into observatory automation decisions</td>
+    <td>C++ · Arduino</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miksrv/asteroid-monitoring"><b>Asteroid Monitoring System</b></a></td>
+    <td>Near-Earth object tracking system ingesting public space agency data feeds, correlating observations, and generating alerts</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miksrv/astronomy-fits-parser"><b>FITS Image Analyzer</b></a></td>
+    <td>Scientific tool for parsing, calibrating, and extracting structured metadata from raw astronomical FITS images</td>
+    <td>Python</td>
+  </tr>
+</table>
+
+---
+
+## About Me
+
+- Started writing code at **15** - haven't stopped since
+- Built systems that operate **unattended, 24/7** in real environments - not just on localhost
+- Comfortable at **every layer of the stack**: from embedded firmware to cloud infrastructure
+- Believe that the best engineers **understand the whole system**, not just their slice of it
+- When not shipping: remote observatory, deep-space photography, hiking with family
+
+---
+
+## 📬 Let's Connect
+
+If you're building something ambitious - a product that needs architecture, leadership, and full-stack execution - I'd like to hear about it.
+
+[![Website](https://img.shields.io/badge/miksoft.pro-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://miksoft.pro)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikcatsvill/)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksoft)&nbsp;
+
+---
+
+<details>
+<summary>Engineering philosophy</summary>
+
+```javascript
+while (alive) {
+  learn();
+  build();
+  improve();
+}
+```
+
+</details>
