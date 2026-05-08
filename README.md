@@ -69,7 +69,7 @@ Engineering responsibilities included:
 
 ---
 
-## 🔭 Astronomy Engineering System - Thursday, May 7, 2026
+## 🔭 Astronomy Engineering System - Friday, May 8, 2026
 
 Most people have hobbies. I built a distributed engineering system.
 
@@ -91,10 +91,10 @@ Every component - firmware, drivers, pipelines, web portal - is custom-built.
 **Latest imagery from the system - captured and processed automatically:**
 
 <p align="center">
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6995/NGC6995-22.08.2021_medium.jpg" alt="NGC6995" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M74/M74-19.03.2021_medium.jpeg" alt="M74" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/IC1805/IC1805-17.12.2020_medium.jpg" alt="IC1805" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC281/NGC281-05.10.2023_medium.jpeg" alt="NGC281" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC6992/NGC6992-20.08.2023_medium.jpeg" alt="NGC6992" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M63/M63-17.03.2021_medium.jpg" alt="M63" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC6995/NGC6995-28.09.2021_medium.jpeg" alt="NGC6995" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC281/NGC281-16.07.2017_medium.jpg" alt="NGC281" width="23%" />
 </p>
 
 *Multi-hour long-exposure composites of deep-sky objects: galaxies, nebulae, and star clusters captured and published fully autonomously.*
