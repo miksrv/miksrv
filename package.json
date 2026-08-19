@@ -19,12 +19,10 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "axios": "^0.21.1",
-        "markdown-it": "^11.0.0",
-        "markdown-it-emoji": "^1.4.0"
+        "axios": "^1.19.0"
     },
     "devDependencies": {},
     "engines": {
-        "node": ">=14.0.0"
+        "node": ">=18.0.0"
     }
 }
