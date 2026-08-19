@@ -7,8 +7,14 @@ const today = new Date().toLocaleDateString('en-US', {
 })
 
 async function buildReadme() {
-    const response = await axios.get('https://api.astro.miksoft.pro/photos?limit=4&order=rand')
+    const response = await axios.get('https://api.astro.miksoft.pro/photos?limit=4&order=rand', {
+        timeout: 10000
+    })
     const items = response.data?.items ?? []
+
+    if (!items.length) {
+        throw new Error('API returned no photos - aborting to avoid publishing a README with an empty gallery')
+    }
 
     const photoContent = items
         .map(photo => `<img src="${imageHost}${photo.dirName}/${photo.fileName}_medium.${photo.fileExt}" alt="${photo.dirName}" width="23%" />`)
@@ -16,14 +22,14 @@ async function buildReadme() {
 
     const template = await fs.readFile('./README.template.md', 'utf8')
     const readme = template
-        .replace('{{PHOTOS}}', photoContent)
-        .replace('{{TODAY}}', today)
+        .replace('{{PHOTOS}}', () => photoContent)
+        .replace('{{TODAY}}', () => today)
 
     await fs.writeFile('README.md', readme)
     console.log('README.md written successfully')
 }
 
 buildReadme().catch(err => {
-    console.error('Failed to build README:', err.message)
+    console.error('Failed to build README:', err)
     process.exit(1)
 })
