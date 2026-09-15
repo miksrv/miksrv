@@ -16,13 +16,13 @@ Principal Engineer / Tech Lead, 21+ years building and running production system
 I run a remote robotic observatory that captures, processes, and publishes deep-sky images automatically every clear night, without manual intervention.
 
 <p align="center">
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6823/NGC6823-23.11.2025_medium.jpeg" alt="NGC6823" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6888/NGC6888-21.02.2021_medium.jpg" alt="NGC6888" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M42/M42-09.02.2018_medium.jpg" alt="M42" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/Sh2109/Sh2109-08.09.2022_medium.jpg" alt="Sh2109" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M42/M42-22.02.2021_medium.jpg" alt="M42" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M101/M101-26.04.2021_medium.jpg" alt="M101" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M81-M82/M81-M82-16.07.2017_medium.jpg" alt="M81-M82" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC6946/NGC6946-21.03.2021_medium.jpg" alt="NGC6946" width="23%" />
 </p>
 
-_Last updated: Monday, September 14, 2026_
+_Last updated: Tuesday, September 15, 2026_
 
 ---
 
