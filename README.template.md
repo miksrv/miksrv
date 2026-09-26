@@ -1,19 +1,14 @@
-Principal Engineer / Tech Lead, 21+ years building and running production systems - architecture, backend, frontend, infrastructure, sometimes hardware too. Led engineering teams of 5-15 across government, media, and enterprise software.
+**Engineering Lead** — 15+ years building production software: architecture, backend, frontend, infrastructure, and the teams behind them. Currently leading engineering on a large React/TypeScript platform at a US enterprise software company.
 
----
+This account is where my side projects live: a robotic observatory, a CubeSat, a weather station — and the software that keeps them running.
 
-## About Me
-
-- Started writing code at **15**
-- Comfortable across the stack - from firmware to backend to React
-- Run a remote robotic observatory that operates unattended every clear night (see below)
-- Outside of code: astrophotography, hiking with family
+[miksoft.pro](https://miksoft.pro) · [LinkedIn](https://www.linkedin.com/in/mikcatsvill/) · [Telegram](https://t.me/miksoft)
 
 ---
 
 ## Home Observatory
 
-I run a remote robotic observatory that captures, processes, and publishes deep-sky images automatically every clear night, without manual intervention.
+A remote robotic observatory that captures, processes, and publishes deep-sky images every clear night — no human in the loop. Four random picks from the archive, refreshed nightly by a build script:
 
 <p align="center">
 {{PHOTOS}}
@@ -27,83 +22,56 @@ _Last updated: {{TODAY}}_
 
 <table>
   <tr>
+    <td width="80"><a href="https://cubesat.miksoft.pro/"><img src="https://miksoft.pro/images/cubesat.webp" width="64" /></a></td>
+    <td>
+      <b><a href="https://cubesat.miksoft.pro/">CubeSat platform</a></b> · <a href="https://github.com/miksrv/cubesat-sim">Flight software</a> · <a href="https://github.com/miksrv/cubesat-groundstation">Ground station</a><br/>
+      Flight software for a physical CubeSat and its cloud ground station: five Python subsystem services on an MQTT bus, telemetry over HTTP and LoRa.<br/>
+      <sub>Python · MQTT · Raspberry Pi · PHP · React · three.js</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="80"><a href="https://astro.miksoft.pro/"><img src="https://miksoft.pro/images/observatory.webp" width="64" /></a></td>
     <td>
-      <b><a href="https://astro.miksoft.pro/">Automated Home Observatory</a></b> · <a href="https://github.com/miksrv/astronomy-portal">GitHub</a><br/>
-      Raspberry Pi + Arduino + Python observatory automation, with a web layer for remote control and image capture.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://meteo.miksoft.pro/"><img src="https://miksoft.pro/images/meteostation.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://meteo.miksoft.pro/">IoT Weather Station</a></b> · <a href="https://github.com/miksrv/arduino-weather-station">GitHub</a><br/>
-      Custom Arduino firmware, REST API, and dashboard - gates observatory sessions on live weather data.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://asteroid.miksoft.pro/"><img src="https://miksoft.pro/images/asteroid.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://asteroid.miksoft.pro/">Asteroid Proximity Tracker</a></b> · <a href="https://github.com/miksrv/asteroid-monitoring">GitHub</a><br/>
-      Live dashboard of near-Earth asteroid approaches, built on NASA's NeoWS API.
+      <b><a href="https://astro.miksoft.pro/">Automated observatory</a></b> · <a href="https://github.com/miksrv/astronomy-portal">Source</a><br/>
+      Remote telescope control and image capture on Raspberry Pi, Arduino, and Python.<br/>
+      <sub>Python · Arduino · Raspberry Pi · REST API</sub>
     </td>
   </tr>
   <tr>
     <td width="80"><a href="https://geometki.com/"><img src="https://miksoft.pro/images/geometki.webp" width="64" /></a></td>
     <td>
-      <b><a href="https://geometki.com/">Geo-Discovery Platform</a></b><br/>
-      Microservices geo-discovery app (Next.js, PHP, MySQL) with map exploration, user content, and a reputation system.
+      <b><a href="https://geometki.com/">Geometki</a></b><br/>
+      Geo-discovery platform with interactive maps and user content.<br/>
+      <sub>Next.js · PHP · MySQL</sub>
     </td>
   </tr>
   <tr>
-    <td width="80"><a href="https://t.me/look_at_stars"><img src="https://miksoft.pro/images/lookatstars.webp" width="64" /></a></td>
+    <td width="80"><a href="https://meteo.miksoft.pro/"><img src="https://miksoft.pro/images/meteostation.webp" width="64" /></a></td>
     <td>
-      <b><a href="https://t.me/look_at_stars">Astronomy Outreach Channel</a></b><br/>
-      Solo-run astronomy channel covering celestial events and astrophotography for a growing audience.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://github.com/miksrv/cubesat-sim"><img src="https://miksoft.pro/images/cubesat.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://github.com/miksrv/cubesat-sim">CubeSat Sim</a></b><br/>
-      Flight software for a real, physical CubeSat - five Python services modeling each subsystem, running on a Raspberry Pi.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://cubesat.miksoft.pro/"><img src="https://miksoft.pro/images/groundstation.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://cubesat.miksoft.pro/">CubeSat Ground Station</a></b> · <a href="https://github.com/miksrv/cubesat-groundstation">GitHub</a><br/>
-      Mission-control dashboard ingesting CubeSat telemetry - PHP/CodeIgniter API, React frontend, live 3D orbit tracking.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://github.com/miksrv/telegram-ai-bot"><img src="https://miksoft.pro/images/tars.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://github.com/miksrv/telegram-ai-bot">TARS - Telegram AI Bot</a></b><br/>
-      AI-powered Telegram bot for a Russian astronomy community, with adaptive personality and live CubeSat/starmap integrations.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://github.com/miksrv/starmap-service"><img src="https://miksoft.pro/images/starmap.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://github.com/miksrv/starmap-service">Starmap Service</a></b><br/>
-      Always-on Python renderer generating night-sky star charts on demand for the TARS bot.
-    </td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://miksrv.github.io/simple-react-ui-kit/"><img src="https://miksoft.pro/images/uikit.webp" width="64" /></a></td>
-    <td>
-      <b><a href="https://miksrv.github.io/simple-react-ui-kit/">Simple React UI Kit</a></b> · <a href="https://github.com/miksrv/simple-react-ui-kit">GitHub</a><br/>
-      Open-source, fully-typed React component library - 17 components, documented in a live Storybook, published on npm.
+      <b><a href="https://meteo.miksoft.pro/">IoT Weather Station</a></b> · <a href="https://github.com/miksrv/arduino-weather-station">Source</a><br/>
+      Arduino firmware, a REST API, and a live dashboard; the observatory's safety gate.<br/>
+      <sub>Arduino · C++ · REST API · React</sub>
     </td>
   </tr>
 </table>
 
+- [**TARS**](https://github.com/miksrv/telegram-ai-bot) — Telegram AI bot, the front end for the CubeSat project
+- [**Starmap service**](https://github.com/miksrv/starmap-service) — on-demand night-sky chart renderer over MQTT
+- [**Simple React UI Kit**](https://miksrv.github.io/simple-react-ui-kit/) — typed React component library on npm, with Storybook docs
+- [**Asteroid tracker**](https://asteroid.miksoft.pro/) — near-Earth approaches from NASA NeoWS data
+- [**Look at Stars**](https://t.me/look_at_stars) — astronomy channel on Telegram
+
 ---
 
-## Let's Connect
+## Stack
 
-If you're building something ambitious - a product that needs architecture, leadership, and full-stack execution - I'd like to hear about it.
+<table>
+  <tr><td><b>Leadership</b></td><td>Team leadership, hiring, mentoring, architecture reviews, engineering standards</td></tr>
+  <tr><td><b>Engineering</b></td><td>TypeScript, React, Next.js, Redux, Node.js, Go, PHP, Python, PostgreSQL, MySQL</td></tr>
+  <tr><td><b>Platform</b></td><td>Docker, CI/CD, Jenkins, GitHub Actions, SonarQube, Playwright, Linux</td></tr>
+  <tr><td><b>AI</b></td><td>LLM integration (OpenAI, Groq), AI-assisted engineering, prompt design, workflow automation</td></tr>
+</table>
 
-[![Website](https://img.shields.io/badge/miksoft.pro-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://miksoft.pro)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikcatsvill/)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksoft)&nbsp;
+---
+
+The fastest way to reach me is [Telegram](https://t.me/miksoft). Experience and a printable resume — at [miksoft.pro](https://miksoft.pro).
