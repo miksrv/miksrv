@@ -11,13 +11,13 @@ This account is where my side projects live: a robotic observatory, a CubeSat, a
 A remote robotic observatory that captures, processes, and publishes deep-sky images every clear night — no human in the loop. Four random picks from the archive, refreshed nightly by a build script:
 
 <p align="center">
-<img src="https://api.astro.miksoft.pro/astrophotos/NGC6946/NGC6946-12.01.2021_medium.jpg" alt="NGC6946" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/M101/M101-29.04.2017_medium.jpg" alt="M101" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/V1405Cas/V1405Cas-26.03.2021_medium.jpeg" alt="V1405Cas" width="23%" />
-<img src="https://api.astro.miksoft.pro/astrophotos/IC63/IC63-23.01.2021_medium.jpeg" alt="IC63" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC896/NGC896-02.09.2022_medium.jpg" alt="NGC896" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/NGC1491/NGC1491-11.03.2021_medium.jpeg" alt="NGC1491" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M42/M42-16.03.2021_medium.jpeg" alt="M42" width="23%" />
+<img src="https://api.astro.miksoft.pro/astrophotos/M51/M51-16.05.2017_medium.jpg" alt="M51" width="23%" />
 </p>
 
-_Last updated: Friday, November 6, 2026_
+_Last updated: Sunday, November 8, 2026_
 
 ---
 
